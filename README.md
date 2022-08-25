@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
+<h1 align="center">Hi 👋 , I'm Eli Mbadi</h1>
 <h3 align="center">A Software Engineer, focusing on web dev, devops and blockchain</h3>
 
 - 🌱 Currently: **A Software Engineer Student at ALX (Holberton)**
