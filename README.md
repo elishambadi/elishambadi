@@ -16,17 +16,15 @@
 </p>
 
 <h3 align="left">Languages | Framework | Tools:</h3>
-<h5>Programming Languages:</h5>
-<p></a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://golang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golanga" width="40" height="40"/> </a> 
-<a href="https://www.programiz.com/java-programming" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="ruby" width="40" height="40"/>
-</a>
-<a href="https://devdocs.io/c/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
-</a>
+<h5>I code in...</h5>
 <a href="https://linuxconfig.org/bash-scripting-tutorial-for-beginners#:~:text=Bash%20is%20a%20command%20language,or%20non%2Dinteractive%20command%20execution." target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Scripting image" width="40" height="40"/>
+</a>
+<p></a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://devdocs.io/c/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
 </a>
 </p>
 
