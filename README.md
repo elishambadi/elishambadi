@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Eli Mbadi</h1>
-<h3 align="center">A Software Engineer, focusing on web dev, devops and blockchain</h3>
+<h3 align="center">A Software Engineer, focusing on Web Development, DevOps and Blockchain</h3>
 
 - 🌱 Currently: **A Software Engineer Student at ALX (Holberton)**
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
