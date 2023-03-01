@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Eli Mbadi</h1>
-<h3 align="center">A Software Engineer, focusing on Web Development, DevOps and Blockchain</h3>
+<h3 align="center">A Software Engineer, focusing on Web System Development and Blockchain</h3>
 
 - 🌱 Currently: **A Software Engineer Student at ALX (Holberton)**
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
-- 💬 Ask me about **Bash, Python, C, Django, Flask, JavaScript, Angular, Solidity, Docker**
+- 💬 Ask me about **Bash, Python, Django, Flask and Solidity**
 - 📫 How to reach me: **embadi43@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I am a 3rd generation philosopher**
