@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Eli Mbadi</h1>
+<h1 align="center">Hi 👋 , I'm Elisha Mbadi</h1>
 <h3 align="center">A Software Engineer, focusing on Web System Development and Blockchain</h3>
 
 - 🌱 Currently: **A Software Engineer Student at ALX (Holberton)**
@@ -27,8 +27,8 @@
 <a href="https://devdocs.io/c/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
 </a>
-<a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Image" width="40" height="40">
+<a href="https://soliditylang.org">
+  <img src="https://soliditylang.org/images/SolBlueGradient.png" alt="Solidity Image" width="40" height="40">
 </a>
 </p>
 
