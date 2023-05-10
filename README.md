@@ -10,9 +10,10 @@
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elishambadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="profkache" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/elisha-mbadi-4b1693165/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salimkachemela" height="30" width="40" /></a>
-<a href="https://instagram.com/eli_mbadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prof.kache" height="30" width="40" /></a><br>
+<a href="https://twitter.com/elishambadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elishambadi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elisha-mbadi-4b1693165/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elishambadi" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/eli_mbadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elishambadi" height="30" width="40" /></a><br> -->
+<a href="https://medium.com/@embadi43" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/1.8.1/medium.svg" alt="elishambadi" height="30" width="40" /></a><br>  
 </p>
 
 <h3 align="left">Languages | Framework | Tools:</h3>
