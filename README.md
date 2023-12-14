@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
 </a>
 <a href="https://soliditylang.org">
-  <img src="https://soliditylang.org/images/SolBlueGradient.png" alt="Solidity Image" width="40" height="40">
+  <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity Image" width="40" height="40">
 </a>
 </p>
 
